@@ -7,7 +7,7 @@ type: course
 award:
   emoji: 0026_Raichu
 
-comparator: 9991
+comparator: 9987
 
 modules:
   - id: reverse-engineering
